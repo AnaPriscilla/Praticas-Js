@@ -1,8 +1,16 @@
 
  function alterarCor() {
         const cor = document.getElementById("cor");
-        cor.style.backgroundColor = "red";
+        //cor.style.backgroundColor = "red";
+
+        //Desafio extra alternar as cores
+        if (cor.style.backgroundColor === "red"){
+                cor.style.backgroundColor = "blue";
+        } else {
+                cor.style.backgroundColor = "red";
+        }
 }
+
 
 /* Minhas anotações   
  Pratiquei:
