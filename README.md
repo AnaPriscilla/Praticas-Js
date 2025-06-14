@@ -1,5 +1,5 @@
 # Praticas-Js
-Voltando a estudar JavaScript
+### Voltando a estudar JavaScript
 # Práticas de JavaScript 🧠💻
 
 Este repositório foi criado para registrar minha jornada de volta aos estudos de **JavaScript**.  
@@ -17,8 +17,10 @@ Aqui você encontrará:
 
 ### 🐱‍💻 É isso! Praticar, praticar e praticar...
 
+## Acesse → <a href="https://praticas-js.netlify.app/">https://praticas-js.netlify.app</a>
+
 <img src="./proj-praticas-js/src/assets/gifs/giphy.gif" alt="gatinho programando" width="300" />
 
-##### Projeto de estudo pessoal 💻☕ Design e Desenvolvimento por: <a href="https://www.linkedin.com/in/anapriscilla/">Ana Priscilla F.</a> 
+##### Projeto de estudo pessoal 💻 Design e Desenvolvimento por: <a href="https://www.linkedin.com/in/anapriscilla/">Ana Priscilla F.</a> 
 
 ---
