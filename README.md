@@ -11,15 +11,14 @@ Aqui você encontrará:
 - Práticas com lógica de programação
 - Atualizações frequentes com novos aprendizados
 
-A ideia é manter este repositório sempre ativo com códigos simples, mas úteis para fixação e melhoria contínua.
+* A ideia é manter este repositório sempre ativo com códigos simples, mas úteis para fixação e melhoria contínua.
 
 ###### O design também foi desenvolvido em html e css puro. 
----
 
 ### 🐱‍💻 É isso! Praticar, praticar e praticar...
 
 <img src="./proj-praticas-js/src/assets/gifs/giphy.gif" alt="gatinho programando" width="300" />
 
-## Projeto de estudo pessoal - design e desenvolvimento por <a href="https://www.linkedin.com/in/anapriscilla/">Ana Priscilla F.</a> 
+##### Projeto de estudo pessoal - design e desenvolvimento por <a href="https://www.linkedin.com/in/anapriscilla/">Ana Priscilla F.</a> 
 
 ---
