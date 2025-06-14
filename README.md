@@ -13,8 +13,13 @@ Aqui você encontrará:
 
 A ideia é manter este repositório sempre ativo com códigos simples, mas úteis para fixação e melhoria contínua.
 
+###### O design também foi desenvolvido em html e css puro. 
 ---
 
-## 🐱‍💻 Um gif para representar o momento
+### 🐱‍💻 É isso! Praticar, praticar e praticar...
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="gatinho programando" width="300" />
+<img src="./proj-praticas-js/src/assets/gifs/giphy.gif" alt="gatinho programando" width="300" />
+
+## Projeto de estudo pessoal - design e desenvolvimento por <a href="https://www.linkedin.com/in/anapriscilla/">Ana Priscilla F.</a> 
+
+---
