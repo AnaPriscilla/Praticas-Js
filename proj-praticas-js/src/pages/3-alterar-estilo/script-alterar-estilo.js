@@ -4,10 +4,10 @@
         //cor.style.backgroundColor = "red";
 
         //Desafio extra alternar as cores
-        if (cor.style.backgroundColor === "red"){
-                cor.style.backgroundColor = "blue";
+        if (cor.style.backgroundColor === "violet"){
+                cor.style.backgroundColor = "turquoise";
         } else {
-                cor.style.backgroundColor = "red";
+                cor.style.backgroundColor = "violet";
         }
 }
 
